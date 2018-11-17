@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftWithObjcFramework/SwiftWithObjcFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftWithObjc/SwiftWithObjc.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ObjcWithSwift/ObjcWithSwift.xcodeproj">
+   </FileRef>
+</Workspace>
